@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Sahil Kumar
 
 ![Profile views](https://gpvc.arturio.dev/Sahilkumar47)
 
@@ -12,11 +12,12 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Atma
 
 - 👨💻 Currently working, learning and growing my skillset in web development, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in web development 🕸️
+- 🌱 4 star coder at [codechef](https://www.codechef.com/users/script_06)
 - 💻 &nbsp; I love exploring new tech stack
 - 🔭 I have worked on tech like MERN, MERNG, Next.js, Typescript, ORMs
 - 🌐 Visit my [porfolio website]() for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume]().
-- 📫 How to reach me: sahilkumarpcm@gmail.com
+- 📫 Mail be at: sahilkumarpcm@gmail.com
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
@@ -38,10 +39,12 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Atma
 <a href="https://firebase.google.com/" target="_blank"> <img src="images/firebase.png" alt="firebase" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>
 
-<h2>📫 &nbsp;Reach me</h2>
+### Social Media Links:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sahilkumar47) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sahilkumar47) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sahilkumar7477/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahilkumar47&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilkumar47)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sahilkumar47)
