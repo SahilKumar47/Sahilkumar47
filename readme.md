@@ -15,7 +15,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Atma
 - 🌱 4 star coder at [codechef](https://www.codechef.com/users/script_06)
 - 💻 &nbsp; I love exploring new tech stack
 - 🔭 I have worked on tech like MERN, MERNG, Next.js, Typescript, ORMs
-- 🌐 Visit my [porfolio website](https://sahilkumar47.github.io/portfolio/) for complete background and contact.
+- 🌐 Visit my [porfolio website](https://sahilkumarportfolio.netlify.app/) for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume]().
 - 📫 Mail be at: sahilkumarpcm@gmail.com
 
