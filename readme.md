@@ -16,7 +16,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Atma
 - 💻 &nbsp; I love exploring new tech stack
 - 🔭 I have worked on tech like MERN, MERNG, Next.js, Typescript, ORMs
 - 🌐 Visit my [porfolio website](https://sahilkumarportfolio.netlify.app/) for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume]().
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1GiNZtIB8O-jpS9P3cuYOncfEjiXlGLfD/view?usp=sharing).
 - 📫 Mail be at: sahilkumarpcm@gmail.com
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
